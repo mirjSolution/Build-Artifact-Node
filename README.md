@@ -24,7 +24,7 @@ An **artifact** is a packaged version of your application, including:
 
 ### **Sample Workflow for Node.js Hello World App**
 
-![Node.js](Images/nodejs.gif)
+![Node.js](Images/node.gif)
 
 1. Initialize Node.js Project
 
